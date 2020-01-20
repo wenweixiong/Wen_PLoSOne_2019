@@ -1,0 +1,24 @@
+variable	level	WSI.freq	TCGA.freq	WSI.prop	TCGA.prop	p.value
+Age	-	54 (26-63)	58.28 (26-68.12)	-	-	8.57094574869112e-11
+Menopause.Status	pre-menopausal	 92	192	30.5	24.2	3.755977e-02
+Menopause.Status	post-menopausal	210	600	69.5	75.8	3.755977e-02
+Tumour.Grade	I	 40	 51	 8.3	 8.7	7.601444e-02
+Tumour.Grade	II	165	238	34.2	40.6	7.601444e-02
+Tumour.Grade	III	277	297	57.5	50.7	7.601444e-02
+ER	positive	366	677	65.4	76.8	3.158507e-06
+ER	negative	194	205	34.6	23.2	3.158507e-06
+PR	positive	313	588	56.8	66.8	1.617617e-04
+PR	negative	238	292	43.2	33.2	1.617617e-04
+HER2	positive	 73	 78	13.0	15.3	2.925174e-01
+HER2	negative	487	431	87.0	84.7	2.925174e-01
+TNBC	No	388	422	70.4	83.2	1.011818e-06
+TNBC	Yes	163	 85	29.6	16.8	1.011818e-06
+BRCA_status	BRCA-proficient	483	874	86.2	94.1	2.188842e-06
+BRCA_status	BRCA1-deficient	 47	 31	 8.4	 3.3	2.188842e-06
+BRCA_status	BRCA2-deficient	 30	 24	 5.4	 2.6	2.188842e-06
+BRCA_status_germline	BRCA-proficient	471	867	89.5	96.4	1.224707e-06
+BRCA_status_germline	BRCA1-deficient	 30	 15	 5.7	 1.7	1.224707e-06
+BRCA_status_germline	BRCA2-deficient	 25	 17	 4.8	 1.9	1.224707e-06
+BRCA_status_somatic	BRCA-proficient	471	867	95.5	97.4	1.465439e-01
+BRCA_status_somatic	BRCA1-deficient	 17	 16	 3.4	 1.8	1.465439e-01
+BRCA_status_somatic	BRCA2-deficient	  5	  7	 1.0	 0.8	1.465439e-01
